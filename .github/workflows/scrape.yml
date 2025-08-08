@@ -20,12 +20,27 @@ jobs:
     - name: Run scraping script
       run: python run_scrapy_job.py
        
+    - name: Debug - list files after scrape
+      run: |
+        echo "Files after scraping:"
+        find loanrates/spiders/data -type f || echo "No files found"
+
     - name: Commit and push updated files
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add loanrates/spiders/data/bankrate.json
-        git add loanrates/spiders/data/bankrate.csv
-        git add loanrates/spiders/data/log/run_scrapy.log
-        git commit -m "Update scraped data [skip ci]" || echo "No changes to commit"
+
+        # Add files only if they exist
+        for file in \
+          loanrates/spiders/data/bankrate.json \
+          loanrates/spiders/data/bankrates.csv \
+          loanrates/spiders/data/log/run_scrapy.log; do
+          if [ -f "$file" ]; then
+            git add "$file"
+          else
+            echo "File not found: $file"
+          fi
+        done
+
+        git commit -m "Update scraped data $(date '+%Y-%m-%d %H:%M:%S') [skip ci]" || echo "No changes to commit"
         git push
