@@ -5,54 +5,54 @@
     "apr_percent": "6.72%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.33%",
-    "apr_percent": "6.42%",
+    "interest_rate": "6.32%",
+    "apr_percent": "6.41%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.86%",
-    "apr_percent": "5.95%",
+    "interest_rate": "5.83%",
+    "apr_percent": "5.93%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.77%",
-    "apr_percent": "5.85%",
+    "interest_rate": "5.74%",
+    "apr_percent": "5.81%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.73%",
-    "apr_percent": "6.80%",
+    "interest_rate": "6.64%",
+    "apr_percent": "6.71%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.79%",
-    "apr_percent": "6.84%",
-    "loan_term_years": "30",
-    "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
-},
-{
-    "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.65%",
+    "interest_rate": "6.64%",
     "apr_percent": "6.69%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-13"
+    "updated_date": "2025-08-14"
+},
+{
+    "loan_product": "30-Year Fixed Rate Jumbo",
+    "interest_rate": "6.63%",
+    "apr_percent": "6.68%",
+    "loan_term_years": "30",
+    "lender_name": "Bankrate",
+    "updated_date": "2025-08-14"
 }
 ]
