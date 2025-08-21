@@ -2,57 +2,57 @@
 {
     "loan_product": "30-Year Fixed Rate",
     "interest_rate": "6.62%",
-    "apr_percent": "6.68%",
+    "apr_percent": "6.69%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.32%",
-    "apr_percent": "6.42%",
+    "interest_rate": "6.33%",
+    "apr_percent": "6.43%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.85%",
+    "interest_rate": "5.84%",
     "apr_percent": "5.93%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.76%",
-    "apr_percent": "5.84%",
+    "interest_rate": "5.72%",
+    "apr_percent": "5.79%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.81%",
-    "apr_percent": "6.88%",
+    "interest_rate": "7.03%",
+    "apr_percent": "7.11%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.79%",
-    "apr_percent": "6.83%",
+    "interest_rate": "6.91%",
+    "apr_percent": "6.95%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.61%",
-    "apr_percent": "6.65%",
+    "interest_rate": "6.58%",
+    "apr_percent": "6.63%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-08-20"
+    "updated_date": "2025-08-21"
 }
 ]
