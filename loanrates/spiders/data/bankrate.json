@@ -1,27 +1,27 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.33%",
-    "apr_percent": "6.40%",
+    "interest_rate": "6.35%",
+    "apr_percent": "6.42%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "5.97%",
-    "apr_percent": "6.06%",
+    "interest_rate": "6.02%",
+    "apr_percent": "6.11%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.61%",
-    "apr_percent": "5.72%",
+    "interest_rate": "5.65%",
+    "apr_percent": "5.75%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "10-Year Fixed Rate",
@@ -29,30 +29,30 @@
     "apr_percent": "5.78%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "5.90%",
-    "apr_percent": "5.95%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.47%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.10%",
-    "apr_percent": "6.14%",
+    "interest_rate": "6.45%",
+    "apr_percent": "6.49%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.42%",
-    "apr_percent": "6.46%",
+    "interest_rate": "6.39%",
+    "apr_percent": "6.43%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-09-26"
+    "updated_date": "2025-09-27"
 }
 ]
