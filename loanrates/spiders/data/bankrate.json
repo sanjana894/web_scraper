@@ -1,51 +1,51 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.36%",
-    "apr_percent": "6.43%",
+    "interest_rate": "6.37%",
+    "apr_percent": "6.44%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.01%",
-    "apr_percent": "6.10%",
+    "interest_rate": "6.08%",
+    "apr_percent": "6.17%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.62%",
-    "apr_percent": "5.72%",
+    "interest_rate": "5.65%",
+    "apr_percent": "5.74%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.71%",
-    "apr_percent": "5.82%",
+    "interest_rate": "5.70%",
+    "apr_percent": "5.81%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "5.89%",
-    "apr_percent": "5.95%",
+    "interest_rate": "6.40%",
+    "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.09%",
-    "apr_percent": "6.13%",
+    "interest_rate": "6.44%",
+    "apr_percent": "6.48%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
@@ -53,6 +53,6 @@
     "apr_percent": "6.53%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-03"
+    "updated_date": "2025-10-04"
 }
 ]
