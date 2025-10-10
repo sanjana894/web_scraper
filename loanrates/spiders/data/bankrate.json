@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.35%",
-    "apr_percent": "6.42%",
+    "interest_rate": "6.34%",
+    "apr_percent": "6.40%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.02%",
-    "apr_percent": "6.09%",
+    "interest_rate": "5.94%",
+    "apr_percent": "6.03%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.63%",
-    "apr_percent": "5.73%",
+    "interest_rate": "5.57%",
+    "apr_percent": "5.67%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "10-Year Fixed Rate",
     "interest_rate": "5.49%",
-    "apr_percent": "5.56%",
+    "apr_percent": "5.57%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.69%",
-    "apr_percent": "6.75%",
+    "interest_rate": "5.91%",
+    "apr_percent": "5.96%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.46%",
-    "apr_percent": "6.50%",
+    "interest_rate": "6.09%",
+    "apr_percent": "6.13%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.44%",
-    "apr_percent": "6.49%",
+    "interest_rate": "6.47%",
+    "apr_percent": "6.52%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-10-09"
+    "updated_date": "2025-10-10"
 }
 ]
