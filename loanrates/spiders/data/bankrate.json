@@ -1,11 +1,11 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.25%",
-    "apr_percent": "6.32%",
+    "interest_rate": "6.24%",
+    "apr_percent": "6.33%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "20-Year Fixed Rate",
@@ -13,46 +13,46 @@
     "apr_percent": "6.12%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.66%",
-    "apr_percent": "5.75%",
+    "interest_rate": "5.64%",
+    "apr_percent": "5.74%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.57%",
-    "apr_percent": "5.64%",
+    "interest_rate": "5.54%",
+    "apr_percent": "5.61%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.69%",
-    "apr_percent": "6.75%",
+    "interest_rate": "6.84%",
+    "apr_percent": "6.92%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.71%",
-    "apr_percent": "6.75%",
+    "interest_rate": "6.73%",
+    "apr_percent": "6.78%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.42%",
-    "apr_percent": "6.46%",
+    "interest_rate": "6.38%",
+    "apr_percent": "6.43%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-12"
+    "updated_date": "2025-11-13"
 }
 ]
