@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.32%",
+    "interest_rate": "6.31%",
     "apr_percent": "6.38%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.06%",
-    "apr_percent": "6.17%",
+    "interest_rate": "6.10%",
+    "apr_percent": "6.20%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.67%",
-    "apr_percent": "5.75%",
+    "interest_rate": "5.64%",
+    "apr_percent": "5.74%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.63%",
-    "apr_percent": "5.70%",
+    "interest_rate": "5.47%",
+    "apr_percent": "5.54%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.75%",
-    "apr_percent": "6.81%",
+    "interest_rate": "7.14%",
+    "apr_percent": "7.22%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.75%",
-    "apr_percent": "6.79%",
+    "interest_rate": "6.70%",
+    "apr_percent": "6.75%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.44%",
-    "apr_percent": "6.47%",
+    "interest_rate": "6.39%",
+    "apr_percent": "6.43%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-19"
+    "updated_date": "2025-11-20"
 }
 ]
