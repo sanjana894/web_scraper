@@ -2,57 +2,57 @@
 {
     "loan_product": "30-Year Fixed Rate",
     "interest_rate": "6.31%",
-    "apr_percent": "6.38%",
+    "apr_percent": "6.37%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.10%",
-    "apr_percent": "6.20%",
+    "interest_rate": "6.08%",
+    "apr_percent": "6.17%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.64%",
-    "apr_percent": "5.74%",
+    "interest_rate": "5.62%",
+    "apr_percent": "5.72%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.47%",
-    "apr_percent": "5.54%",
+    "interest_rate": "5.59%",
+    "apr_percent": "5.66%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "7.14%",
-    "apr_percent": "7.22%",
+    "interest_rate": "5.87%",
+    "apr_percent": "5.92%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.70%",
-    "apr_percent": "6.75%",
+    "interest_rate": "6.16%",
+    "apr_percent": "6.20%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.39%",
-    "apr_percent": "6.43%",
+    "interest_rate": "6.45%",
+    "apr_percent": "6.49%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-20"
+    "updated_date": "2025-11-21"
 }
 ]
