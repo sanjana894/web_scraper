@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.29%",
-    "apr_percent": "6.35%",
+    "interest_rate": "6.25%",
+    "apr_percent": "6.31%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.06%",
-    "apr_percent": "6.14%",
+    "interest_rate": "5.99%",
+    "apr_percent": "6.09%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.63%",
-    "apr_percent": "5.72%",
+    "interest_rate": "5.58%",
+    "apr_percent": "5.69%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.65%",
-    "apr_percent": "5.76%",
+    "interest_rate": "5.62%",
+    "apr_percent": "5.73%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.16%",
-    "apr_percent": "6.22%",
+    "interest_rate": "5.78%",
+    "apr_percent": "5.83%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.30%",
-    "apr_percent": "6.35%",
+    "interest_rate": "6.12%",
+    "apr_percent": "6.16%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.43%",
-    "apr_percent": "6.46%",
+    "interest_rate": "6.39%",
+    "apr_percent": "6.43%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-11-27"
+    "updated_date": "2025-11-28"
 }
 ]
