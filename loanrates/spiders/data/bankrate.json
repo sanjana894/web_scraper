@@ -1,51 +1,51 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.23%",
-    "apr_percent": "6.30%",
+    "interest_rate": "6.25%",
+    "apr_percent": "6.32%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.03%",
-    "apr_percent": "6.15%",
+    "interest_rate": "6.05%",
+    "apr_percent": "6.16%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.61%",
-    "apr_percent": "5.71%",
+    "interest_rate": "5.62%",
+    "apr_percent": "5.72%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.54%",
-    "apr_percent": "5.62%",
+    "interest_rate": "5.51%",
+    "apr_percent": "5.59%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.31%",
-    "apr_percent": "6.36%",
+    "interest_rate": "6.97%",
+    "apr_percent": "7.05%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.45%",
-    "apr_percent": "6.50%",
+    "interest_rate": "6.58%",
+    "apr_percent": "6.63%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
@@ -53,6 +53,6 @@
     "apr_percent": "6.48%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-24"
+    "updated_date": "2025-12-25"
 }
 ]
