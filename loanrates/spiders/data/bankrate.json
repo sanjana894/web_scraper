@@ -1,35 +1,35 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.25%",
-    "apr_percent": "6.32%",
+    "interest_rate": "6.29%",
+    "apr_percent": "6.34%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.01%",
-    "apr_percent": "6.10%",
+    "interest_rate": "6.04%",
+    "apr_percent": "6.11%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.53%",
-    "apr_percent": "5.63%",
+    "interest_rate": "5.57%",
+    "apr_percent": "5.65%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.54%",
-    "apr_percent": "5.62%",
+    "interest_rate": "5.56%",
+    "apr_percent": "5.64%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
@@ -37,22 +37,22 @@
     "apr_percent": "6.50%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.44%",
-    "apr_percent": "6.49%",
+    "interest_rate": "6.42%",
+    "apr_percent": "6.47%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.44%",
-    "apr_percent": "6.48%",
+    "interest_rate": "6.57%",
+    "apr_percent": "6.61%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-29"
+    "updated_date": "2025-12-30"
 }
 ]
