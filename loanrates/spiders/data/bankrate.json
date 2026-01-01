@@ -1,11 +1,11 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.20%",
-    "apr_percent": "6.26%",
+    "interest_rate": "6.21%",
+    "apr_percent": "6.27%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "20-Year Fixed Rate",
@@ -13,46 +13,46 @@
     "apr_percent": "6.08%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.49%",
-    "apr_percent": "5.59%",
+    "interest_rate": "5.47%",
+    "apr_percent": "5.58%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.51%",
-    "apr_percent": "5.58%",
+    "interest_rate": "5.49%",
+    "apr_percent": "5.55%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.29%",
-    "apr_percent": "6.34%",
+    "interest_rate": "6.30%",
+    "apr_percent": "6.37%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.46%",
-    "apr_percent": "6.51%",
+    "interest_rate": "6.51%",
+    "apr_percent": "6.57%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.39%",
-    "apr_percent": "6.43%",
+    "interest_rate": "6.35%",
+    "apr_percent": "6.39%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2025-12-31"
+    "updated_date": "2026-01-01"
 }
 ]
