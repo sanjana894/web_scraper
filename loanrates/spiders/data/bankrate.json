@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.16%",
-    "apr_percent": "6.22%",
+    "interest_rate": "6.18%",
+    "apr_percent": "6.24%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "5.93%",
-    "apr_percent": "6.02%",
+    "interest_rate": "5.98%",
+    "apr_percent": "6.07%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.47%",
-    "apr_percent": "5.56%",
+    "interest_rate": "5.52%",
+    "apr_percent": "5.61%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.38%",
-    "apr_percent": "5.45%",
+    "interest_rate": "5.41%",
+    "apr_percent": "5.48%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "5.80%",
-    "apr_percent": "5.86%",
+    "interest_rate": "6.11%",
+    "apr_percent": "6.17%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.24%",
-    "apr_percent": "6.28%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.46%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.41%",
+    "interest_rate": "6.42%",
     "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-09"
+    "updated_date": "2026-01-10"
 }
 ]
