@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.19%",
-    "apr_percent": "6.27%",
+    "interest_rate": "6.12%",
+    "apr_percent": "6.20%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "5.92%",
+    "interest_rate": "5.91%",
     "apr_percent": "6.03%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.56%",
+    "interest_rate": "5.57%",
     "apr_percent": "5.65%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.39%",
-    "apr_percent": "5.46%",
+    "interest_rate": "5.51%",
+    "apr_percent": "5.60%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.04%",
-    "apr_percent": "6.09%",
+    "interest_rate": "6.19%",
+    "apr_percent": "6.25%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.30%",
-    "apr_percent": "6.35%",
+    "interest_rate": "6.53%",
+    "apr_percent": "6.58%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.52%",
-    "apr_percent": "6.56%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-01-20"
+    "updated_date": "2026-01-21"
 }
 ]
