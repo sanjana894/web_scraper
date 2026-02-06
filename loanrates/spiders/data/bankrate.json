@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.23%",
-    "apr_percent": "6.31%",
+    "interest_rate": "6.26%",
+    "apr_percent": "6.33%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "20-Year Fixed Rate",
     "interest_rate": "5.95%",
-    "apr_percent": "6.06%",
+    "apr_percent": "6.03%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.59%",
+    "interest_rate": "5.57%",
     "apr_percent": "5.68%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.46%",
-    "apr_percent": "5.52%",
+    "interest_rate": "5.55%",
+    "apr_percent": "5.62%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.28%",
-    "apr_percent": "6.34%",
+    "interest_rate": "5.79%",
+    "apr_percent": "5.85%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.44%",
-    "apr_percent": "6.49%",
+    "interest_rate": "6.24%",
+    "apr_percent": "6.29%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.39%",
-    "apr_percent": "6.42%",
+    "interest_rate": "6.42%",
+    "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-02-05"
+    "updated_date": "2026-02-06"
 }
 ]
