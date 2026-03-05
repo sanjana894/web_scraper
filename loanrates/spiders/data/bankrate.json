@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.05%",
-    "apr_percent": "6.12%",
+    "interest_rate": "6.08%",
+    "apr_percent": "6.15%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "5.86%",
-    "apr_percent": "5.97%",
+    "interest_rate": "5.88%",
+    "apr_percent": "5.98%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.46%",
-    "apr_percent": "5.56%",
+    "interest_rate": "5.47%",
+    "apr_percent": "5.57%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.45%",
-    "apr_percent": "5.52%",
+    "interest_rate": "5.38%",
+    "apr_percent": "5.45%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.08%",
-    "apr_percent": "6.13%",
+    "interest_rate": "6.02%",
+    "apr_percent": "6.07%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.32%",
-    "apr_percent": "6.39%",
-    "loan_term_years": "30",
-    "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
-},
-{
-    "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.23%",
+    "interest_rate": "6.20%",
     "apr_percent": "6.26%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-03-04"
+    "updated_date": "2026-03-05"
+},
+{
+    "loan_product": "30-Year Fixed Rate Jumbo",
+    "interest_rate": "6.21%",
+    "apr_percent": "6.24%",
+    "loan_term_years": "30",
+    "lender_name": "Bankrate",
+    "updated_date": "2026-03-05"
 }
 ]
