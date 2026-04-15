@@ -1,19 +1,19 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.40%",
-    "apr_percent": "6.47%",
+    "interest_rate": "6.38%",
+    "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.23%",
-    "apr_percent": "6.34%",
+    "interest_rate": "6.22%",
+    "apr_percent": "6.32%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "15-Year Fixed Rate",
@@ -21,38 +21,38 @@
     "apr_percent": "5.87%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.76%",
-    "apr_percent": "5.84%",
+    "interest_rate": "5.69%",
+    "apr_percent": "5.77%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.26%",
-    "apr_percent": "6.31%",
+    "interest_rate": "6.31%",
+    "apr_percent": "6.36%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.38%",
-    "apr_percent": "6.43%",
+    "interest_rate": "6.43%",
+    "apr_percent": "6.48%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.51%",
-    "apr_percent": "6.54%",
+    "interest_rate": "6.49%",
+    "apr_percent": "6.52%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-14"
+    "updated_date": "2026-04-15"
 }
 ]
