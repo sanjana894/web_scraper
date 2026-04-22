@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.33%",
-    "apr_percent": "6.40%",
+    "interest_rate": "6.30%",
+    "apr_percent": "6.37%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.14%",
-    "apr_percent": "6.24%",
+    "interest_rate": "6.10%",
+    "apr_percent": "6.20%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.72%",
-    "apr_percent": "5.81%",
+    "interest_rate": "5.69%",
+    "apr_percent": "5.78%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.66%",
-    "apr_percent": "5.75%",
+    "interest_rate": "5.63%",
+    "apr_percent": "5.71%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.30%",
-    "apr_percent": "6.35%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.47%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.35%",
-    "apr_percent": "6.40%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.45%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.57%",
-    "apr_percent": "6.61%",
+    "interest_rate": "6.47%",
+    "apr_percent": "6.51%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-04-21"
+    "updated_date": "2026-04-22"
 }
 ]
