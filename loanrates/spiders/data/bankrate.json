@@ -1,11 +1,11 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.46%",
-    "apr_percent": "6.53%",
+    "interest_rate": "6.44%",
+    "apr_percent": "6.50%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "20-Year Fixed Rate",
@@ -13,46 +13,46 @@
     "apr_percent": "6.41%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.79%",
-    "apr_percent": "5.88%",
+    "interest_rate": "5.78%",
+    "apr_percent": "5.87%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.76%",
-    "apr_percent": "5.84%",
+    "interest_rate": "5.73%",
+    "apr_percent": "5.81%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
     "interest_rate": "6.29%",
-    "apr_percent": "6.34%",
+    "apr_percent": "6.35%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.50%",
-    "apr_percent": "6.54%",
+    "interest_rate": "6.51%",
+    "apr_percent": "6.55%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.62%",
-    "apr_percent": "6.65%",
+    "interest_rate": "6.55%",
+    "apr_percent": "6.58%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-05"
+    "updated_date": "2026-05-06"
 }
 ]
