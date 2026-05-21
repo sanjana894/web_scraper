@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.58%",
-    "apr_percent": "6.65%",
+    "interest_rate": "6.63%",
+    "apr_percent": "6.70%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.41%",
-    "apr_percent": "6.51%",
+    "interest_rate": "6.45%",
+    "apr_percent": "6.54%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "7.26%",
-    "apr_percent": "7.37%",
+    "interest_rate": "5.96%",
+    "apr_percent": "6.08%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.93%",
+    "interest_rate": "5.94%",
     "apr_percent": "6.03%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.35%",
-    "apr_percent": "6.40%",
+    "interest_rate": "6.51%",
+    "apr_percent": "6.57%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.63%",
-    "apr_percent": "6.68%",
+    "interest_rate": "6.66%",
+    "apr_percent": "6.72%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
     "interest_rate": "6.67%",
-    "apr_percent": "6.71%",
+    "apr_percent": "6.72%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-20"
+    "updated_date": "2026-05-21"
 }
 ]
