@@ -1,27 +1,27 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.63%",
-    "apr_percent": "6.70%",
+    "interest_rate": "6.65%",
+    "apr_percent": "6.72%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.45%",
-    "apr_percent": "6.54%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.49%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "5.96%",
-    "apr_percent": "6.08%",
+    "interest_rate": "5.99%",
+    "apr_percent": "6.10%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "10-Year Fixed Rate",
@@ -29,30 +29,30 @@
     "apr_percent": "6.03%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.51%",
-    "apr_percent": "6.57%",
+    "interest_rate": "6.28%",
+    "apr_percent": "6.32%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.66%",
-    "apr_percent": "6.72%",
+    "interest_rate": "6.53%",
+    "apr_percent": "6.58%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.67%",
-    "apr_percent": "6.72%",
+    "interest_rate": "6.74%",
+    "apr_percent": "6.79%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-05-21"
+    "updated_date": "2026-05-22"
 }
 ]
