@@ -2,57 +2,57 @@
 {
     "loan_product": "30-Year Fixed Rate",
     "interest_rate": "6.62%",
-    "apr_percent": "6.70%",
+    "apr_percent": "6.69%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.42%",
-    "apr_percent": "6.54%",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.50%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "6.01%",
-    "apr_percent": "6.11%",
+    "interest_rate": "5.99%",
+    "apr_percent": "6.10%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.85%",
-    "apr_percent": "5.95%",
+    "interest_rate": "5.95%",
+    "apr_percent": "6.05%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.35%",
-    "apr_percent": "6.39%",
+    "interest_rate": "6.16%",
+    "apr_percent": "6.20%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.40%",
-    "apr_percent": "6.44%",
+    "interest_rate": "6.25%",
+    "apr_percent": "6.28%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.67%",
-    "apr_percent": "6.71%",
+    "interest_rate": "6.71%",
+    "apr_percent": "6.76%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-07-16"
+    "updated_date": "2026-07-17"
 }
 ]
