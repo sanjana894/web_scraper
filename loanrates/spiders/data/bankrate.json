@@ -1,58 +1,58 @@
 [
 {
     "loan_product": "30-Year Fixed Rate",
-    "interest_rate": "6.71%",
-    "apr_percent": "6.77%",
+    "interest_rate": "6.69%",
+    "apr_percent": "6.76%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
 },
 {
     "loan_product": "20-Year Fixed Rate",
-    "interest_rate": "6.48%",
-    "apr_percent": "6.58%",
+    "interest_rate": "6.56%",
+    "apr_percent": "6.66%",
     "loan_term_years": "20",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
 },
 {
     "loan_product": "15-Year Fixed Rate",
-    "interest_rate": "6.06%",
+    "interest_rate": "6.07%",
     "apr_percent": "6.16%",
     "loan_term_years": "15",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
 },
 {
     "loan_product": "10-Year Fixed Rate",
-    "interest_rate": "5.98%",
-    "apr_percent": "6.07%",
+    "interest_rate": "6.02%",
+    "apr_percent": "6.12%",
     "loan_term_years": "10",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
 },
 {
     "loan_product": "30-Year Fixed Rate FHA",
-    "interest_rate": "6.31%",
-    "apr_percent": "6.36%",
-    "loan_term_years": "30",
-    "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
-},
-{
-    "loan_product": "30-Year Fixed Rate VA",
-    "interest_rate": "6.36%",
+    "interest_rate": "6.37%",
     "apr_percent": "6.41%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
+},
+{
+    "loan_product": "30-Year Fixed Rate VA",
+    "interest_rate": "6.41%",
+    "apr_percent": "6.45%",
+    "loan_term_years": "30",
+    "lender_name": "Bankrate",
+    "updated_date": "2026-08-15"
 },
 {
     "loan_product": "30-Year Fixed Rate Jumbo",
-    "interest_rate": "6.82%",
-    "apr_percent": "6.85%",
+    "interest_rate": "6.76%",
+    "apr_percent": "6.79%",
     "loan_term_years": "30",
     "lender_name": "Bankrate",
-    "updated_date": "2026-08-14"
+    "updated_date": "2026-08-15"
 }
 ]
